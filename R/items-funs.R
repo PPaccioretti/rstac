@@ -24,7 +24,7 @@
 #' \item `items_bbox()`: retrieves the `bbox`
 #' field of a `doc_items` or a `doc_item` object.
 #'
-#' \item `item_assets()`: returns the assets name from
+#' \item `items_assets()`: returns the assets name from
 #' `doc_items` and `doc_item` objects.
 #'
 #' \item `items_filter()`: selects only items that match some criteria
@@ -133,7 +133,7 @@
 #'
 #' \item `items_bbox()`: returns a `list` with all items' bounding boxes.
 #'
-#' \item `item_assets()`: returns a `character` value with all assets names
+#' \item `items_assets()`: returns a `character` value with all assets names
 #' of all items.
 #'
 #' \item `items_filter()`: a `doc_items` object.
